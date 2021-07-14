@@ -7,7 +7,7 @@ import collections
 import hashlib
 import math
 import os
-import randomf
+import random
 import re
 import shutil
 import sys
