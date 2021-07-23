@@ -1,2 +1,2 @@
 # d2l
-dive into deep learning
+dive into deep learning practice
